@@ -1,0 +1,68 @@
+{
+    "name": "Votigo",
+    "description": "Votigo, Inc. is a privately-held company with offices in the San Francisco Bay Area, Boulder, CO, and Hyderabad, India. The company was founded in 2006 to help businesses better engage their customers, build brand awareness, and increase revenue throug...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1238-votigo.jpg",
+    "tags": [
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/votigo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Votigo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1238-votigo.jpg",
+            "humanURL": "http:\/\/www.votigo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/votigo-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/votigo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.votigo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/social.votigo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.votigo.com\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/votigo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/votigo"
+        },
+        {
+            "type": "Email",
+            "url": "dmca@votigo.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/votigo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/votigo"
+        }
+    ]
+}
